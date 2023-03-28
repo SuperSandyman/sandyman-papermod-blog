@@ -17,3 +17,4 @@ elif num == 3:
     subprocess.run(["git", "push", "-u", "origin", "main"])
 else:
     print("1か2か3を入力してください。")
+    
