@@ -1,14 +1,15 @@
-baseURL = "https://examplesite.com/"
+baseURL = "https://www.sandyman.dev"
 title = "Sandyマンのブログ"
-paginate = 7
+paginate = 8
 theme = "PaperMod"
 enableRobotsTXT = true
 enableGitInfo = true
 buildDrafts = false
 buildFuture = false
 buildExpired = false
-googleAnalytics = "UA-123-45"
+googleAnalytics = "G-8S0XGNJ553"
 pygmentsUseClasses = true
+hasCJKLanguage = true
 
 [minify]
 disableXML = true
@@ -17,9 +18,9 @@ minifyOutput = true
 [params]
 env = "production"
 title = "Sandyマンのブログ"
-description = "ExampleSite description"
-keywords = [ "Blog", "Portfolio", "PaperMod" ]
-author = "Me"
+description = "技術系の記事とか競馬の記事とかなんでも書いてます。"
+keywords = [ "ブログ", "競馬", "プログラミング" ]
+author = "Sandyマン"
 images = [ "<link or path of image for opengraph, twitter-cards>" ]
 DateFormat = "January 2, 2006"
 defaultTheme = "light"
@@ -122,6 +123,12 @@ weight = 10
 identifier = "Tags"
 name = "Tags"
 url = "/tags/"
+weight = 20
+
+[[menu.main]]
+identifier = "Scraps"
+name = "Scraps"
+url = "/scraps/"
 weight = 20
 
 [[menu.main]]
