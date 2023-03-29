@@ -102,11 +102,6 @@ SiteVerificationTag = "XYZabc"
   hiddenInList = true
   hiddenInSingle = true
 
-  [params.editPost]
-  URL = "https://github.com/<path_to_repo>/content"
-  Text = "Suggest Changes"
-  appendFilePath = true
-
   [params.fuseOpts]
   isCaseSensitive = false
   shouldSort = true
