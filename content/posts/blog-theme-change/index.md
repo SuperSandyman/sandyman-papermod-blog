@@ -3,7 +3,7 @@ date: "2023-03-29"
 title: "ブログのテーマをPaperModに変えました"
 tags: ["Hugo", "ブログ"]
 categories: ["ブログ"]
-draft: true
+draft: false
 archives: ["2023/03"]
 toc: true
 ---
