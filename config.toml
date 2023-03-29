@@ -11,6 +11,9 @@ googleAnalytics = "G-8S0XGNJ553"
 pygmentsUseClasses = true
 hasCJKLanguage = true
 
+[context.production.environment]
+HUGO_VERSION = "0.92.2"
+
 [minify]
 disableXML = true
 minifyOutput = true
