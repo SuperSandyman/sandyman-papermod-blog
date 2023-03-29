@@ -11,21 +11,17 @@ description: "Pythonの標準ライブラリであるTkinterを使って、PCで
 ---
 
 ## はじめに
+皆さんこんにちは！Sandyマンです！
 
-皆さんこんにちは！Sandy マンです！
-
-今回は、Python の標準ライブラリである「Tkinter」を<!--more-->使ってお手軽に GUI アプリケーションを作ってみようと思います！それではやっていきます！
+今回は、Pythonの標準ライブラリである「Tkinter」を<!--more-->使ってお手軽にGUIアプリケーションを作ってみようと思います！それではやっていきます！
 
 ## 実施環境
-
 - OS Manjaro Linux
 - ThinkPad X1 Carbon Gen10
 - Python 3.10.6
 
 ## なぜか動かない
-
 早速試そうと思ったら、こんなエラーが出てなぜか動きませんでした。
-
 ```
 Traceback (most recent call last):
 File "/home/sandyman/python/thinker_test/app.py", line 2, in <module>
@@ -34,13 +30,10 @@ File "/usr/lib/python3.10/tkinter/init.py", line 37, in <module>
 import _tkinter # If this fails your Python may not be configured for Tk
 ImportError: libtk8.6.so: cannot open shared object file: No such file or directory
 ```
-
-調べてみると、なぜか Tkinter がインストールされていないようです。Arch 系の人は`sudo pacman -S tk`でインストールしたあとに、venv を作り直せば動くそうです。実際これで動きました！
+調べてみると、なぜかTkinterがインストールされていないようです。Arch系の人は`sudo pacman -S tk`でインストールしたあとに、venvを作り直せば動くそうです。実際これで動きました！
 
 ## とりあえず動かす
-
-では、とりあえず何か書いて動かしてみます。app.py を作成してドキュメントを見ながら書いてみます。まずは毎度おなじみ Hello, World!からやってみます。
-
+では、とりあえず何か書いて動かしてみます。app.pyを作成してドキュメントを見ながら書いてみます。まずは毎度おなじみHello, World!からやってみます。
 ```python
 from tkinter import *
 from tkinter import ttk
@@ -51,7 +44,6 @@ ttk.Label(frm, text="Hello World!").grid(column=0, row=0)
 ttk.Button(frm, text="Quit", command=root.destroy).grid(column=1, row=0)
 root.mainloop()
 ```
-
 `python3 app.py`と打って実行すると...
 
 ![](./tkinter_helloworld.webp)
@@ -59,15 +51,16 @@ root.mainloop()
 少し見た目が古風なウィンドウが出てきます。出てきたら成功です！
 
 ## ウィンドウのサイズ指定をしてみる
-
 次はウィンドウのサイズを指定してみようと思います！さっきのコードに、`root.geometry("300x400")`というのを付け加えます。保存して実行してみるとさっきよりも大きくなっているはずです。
 
-最大化したい場合は、`root.attributes("-zoomed", "1")`を付け加えます。(Linux や Mac のみ)
+最大化したい場合は、`root.attributes("-zoomed", "1")`を付け加えます。(LinuxやMacのみ)
 
 ![](tkinter_zoomed.webp)
 
 するとこんな感じのバカでかいウィンドウが出てきます。
 
 ## まとめ
+ということで今回は、Tkinterで簡単にGUIアプリケーションを作ってみました！そのうち他のライブラリと連携してみた的なやつもやるので、そちらもよろしくお願いします！それではさようならーーーー！！！
 
-ということで今回は、Tkinter で簡単に GUI アプリケーションを作ってみました！そのうち他のライブラリと連携してみた的なやつもやるので、そちらもよろしくお願いします！それではさようならーーーー！！！
+
+

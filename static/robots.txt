@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /scraps/
+Sitemap: https://www.sandyman.dev/sitemap.xml
