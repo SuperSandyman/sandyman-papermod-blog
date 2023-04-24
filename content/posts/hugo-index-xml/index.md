@@ -1,11 +1,11 @@
 ---
 date: "2023-04-24"
 title: "Hugoのindex.xmlに一部記事が登録されないようにしてみた"
-tags: ["", "", ""]
-categories: [""]
-draft: true
+tags: ["Hugo", "ブログ", "SEO"]
+categories: ["Hugo"]
+draft: false
 archives: ["2023/04"]
-toc: true
+toc: false-
 ---
 
 皆さんこんにちは。Sandyマンです。Hugoのindex.xmlに一部記事が登録されないようにしてみたので方法を残そうと思います。
