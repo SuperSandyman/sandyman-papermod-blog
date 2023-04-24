@@ -11,6 +11,7 @@
 {{- $pages = $pages | first $limit -}}
 {{- end -}}
 {{- $pages := .Data.Pages -}}
+
 {{- $pages = where $pages ".Section" "not in" $.Site.Params.InhibitSections -}}
 {{ printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
