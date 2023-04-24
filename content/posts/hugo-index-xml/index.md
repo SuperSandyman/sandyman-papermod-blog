@@ -1,7 +1,22 @@
+---
+date: "2023-04-24"
+title: "Hugoのindex.xmlに一部記事が登録されないようにしてみた"
+tags: ["", "", ""]
+categories: [""]
+draft: true
+archives: ["2023/04"]
+toc: true
+---
+
+皆さんこんにちは。Sandyマンです。Hugoのindex.xmlに一部記事が登録されないようにしてみたので方法を残そうと思います。
+
+## 結論
+rss.xmlのここを変える。
+```
 {{- $pctx := . -}}
 {{- if .IsHome -}}{{ $pctx = site }}{{- end -}}
 {{- $pages := slice -}}
-{{- if or $.IsHome $.IsSection -}}
+{{- if or $.IsHome  $.IsSection -}}
 {{- $pages = $pctx.RegularPages -}}
 {{- else -}}
 {{- $pages = $pctx.Pages -}}
@@ -34,7 +49,8 @@
     {{ printf "<atom:link href=%q rel=\"self\" type=%q />" .Permalink .MediaType | safeHTML }}
     {{- end -}}
     {{ range $pages }}
-    {{- if and (ne .Layout `search`) (ne .Layout `archives`) }}
+-   {{- if and (ne .Layout `search`) (ne .Layout `archives`) }}
++   {{- if and (ne .Layout `search`) (ne .Layout `archives`) (not (strings.Contains .Permalink "/scraps/")) }} 
     <item>
       <title>{{ .Title }}</title>
       <link>{{ .Permalink }}</link>
@@ -50,3 +66,9 @@
     {{ end }}
   </channel>
 </rss>
+```
+
+-のところを消して、代わりに+のところを記述してあげるといい感じになります。この場合だと、/scraps/が登録されないようになります。
+
+## まとめ
+ということで、Hugoで一部記事が登録されないようにしてみました。それではさようならーーーーーーーー！

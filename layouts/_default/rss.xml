@@ -1,7 +1,7 @@
 {{- $pctx := . -}}
 {{- if .IsHome -}}{{ $pctx = site }}{{- end -}}
 {{- $pages := slice -}}
-{{- if or $.IsHome $.IsSection -}}
+{{- if or $.IsHome  $.IsSection -}}
 {{- $pages = $pctx.RegularPages -}}
 {{- else -}}
 {{- $pages = $pctx.Pages -}}
@@ -10,11 +10,8 @@
 {{- if ge $limit 1 -}}
 {{- $pages = $pages | first $limit -}}
 {{- end -}}
-{{- $pages := .Data.Pages -}}
+{{- printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
 
-{{- $pages = where $pages ".Section" "not in" $.Site.Params.InhibitSections -}}
-{{ printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>{{ if eq  .Title  site.Title }}{{ site.Title }}{{ else }}{{ with .Title }}{{.}} on {{ end }}{{ site.Title }}{{ end }}</title>
@@ -37,7 +34,7 @@
     {{ printf "<atom:link href=%q rel=\"self\" type=%q />" .Permalink .MediaType | safeHTML }}
     {{- end -}}
     {{ range $pages }}
-    {{- if and (ne .Layout `search`) (ne .Layout `archives`) }}
+    {{- if and (ne .Layout `search`) (ne .Layout `archives`) (not (strings.Contains .Permalink "/scraps/")) }} 
     <item>
       <title>{{ .Title }}</title>
       <link>{{ .Permalink }}</link>

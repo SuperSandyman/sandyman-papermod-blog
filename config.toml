@@ -19,8 +19,8 @@ disableXML = true
 minifyOutput = true
 
 [params]
-mainSections = ["posts"]
-inhibitSections = ["tags", "categories", "scraps"]
+mainSections = "posts"
+inhibitSections = [ "tags", "categories", "scraps" ]
 env = "production"
 title = "Sandyマンのブログ"
 description = "技術系の記事とか競馬の記事とかなんでも書いてます。"
