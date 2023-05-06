@@ -35,10 +35,11 @@
 {{- if site.Params.analytics.naver.SiteVerificationTag }}
 <meta name="naver-site-verification" content="{{ site.Params.analytics.naver.SiteVerificationTag }}">
 {{- end }}
-{{ if or (in $.Site.Params.InhibitSections .Section) (in $.Site.Params.InhibitPaths .File.Path) }}
-	<meta name="robots" content="noindex">
+{{ with .File }}
+    {{ if or (in $.Site.Params.InhibitSections .Section) (in $.Site.Params.InhibitPaths .File.Path) }}
+        <meta name="robots" content="noindex, nofollow">
+    {{ end }}
 {{ end }}
-
 {{- /* Styles */}}
 
 {{- /* includes */}}
