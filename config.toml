@@ -80,7 +80,7 @@ tocopen = false
 
   [[params.socialIcons]]
   name = "twitter"
-  url = "https://twitter.com/sandyman_linux"
+  url = "https://twitter.com/sandyman_blog"
 
   [[params.socialIcons]]
   name = "github"
