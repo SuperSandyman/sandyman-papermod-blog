@@ -1,5 +1,3 @@
 User-agent: *
-Disallow: /scraps/
-Disallow: /categories/
-Disallow: /tags/
+Disallow:
 Sitemap: https://www.sandyman.dev/sitemap.xml
