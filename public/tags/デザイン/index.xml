@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>デザイン on Sandyマンのブログ</title>
+    <link>http://localhost:1313/tags/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/</link>
+    <description>Recent content in デザイン on Sandyマンのブログ</description>
+    <image>
+      <title>Sandyマンのブログ</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 20 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/index.xml" rel="self" type="application/rss+xml" /> 
+    <item>
+      <title>Next.jsでの個人開発の設計的なのをしてみる</title>
+      <link>http://localhost:1313/posts/nextjs-firebase-app-2/</link>
+      <pubDate>Fri, 20 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/nextjs-firebase-app-2/</guid>
+      <description>皆さんこんにちは。Sandyマンです。今回は個人開発の設計みたいなのについて考えていきます。それではやっていきます！ UI、デザインなど UI、</description>
+    </item>
+     
+    <item>
+      <title>CSSフレームワーク「Bulma」でいろいろ作ってみた</title>
+      <link>http://localhost:1313/posts/css-bulma-using/</link>
+      <pubDate>Fri, 16 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/css-bulma-using/</guid>
+      <description>はじめに 皆さんこんにちは！Sandyマンです！ 今回は、CSSフレームワークである「Bulma」を使って実際にいろいろ作ってみたいなと思います</description>
+    </item>
+    
+  </channel>
+</rss>

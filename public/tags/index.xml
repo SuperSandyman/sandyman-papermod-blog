@@ -1,0 +1,548 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Sandyマンのブログ</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Sandyマンのブログ</description>
+    <image>
+      <title>Sandyマンのブログ</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 20 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" /> 
+    <item>
+      <title>Directus</title>
+      <link>http://localhost:1313/tags/directus/</link>
+      <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/directus/</guid>
+      <description></description>
+    </item>
+     
+    <item>
+      <title>Ubuntu</title>
+      <link>http://localhost:1313/tags/ubuntu/</link>
+      <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/ubuntu/</guid>
+      <description></description>
+    </item>
+     
+    <item>
+      <title>ヘッドレスCMS</title>
+      <link>http://localhost:1313/tags/%E3%83%98%E3%83%83%E3%83%89%E3%83%AC%E3%82%B9cms/</link>
+      <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%E3%83%98%E3%83%83%E3%83%89%E3%83%AC%E3%82%B9cms/</guid>
+      <description></description>
+    </item>
+     
+    <item>
+      <title>ブログ</title>
+      <link>http://localhost:1313/tags/%E3%83%96%E3%83%AD%E3%82%B0/</link>
+      <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%E3%83%96%E3%83%AD%E3%82%B0/</guid>
+      <description></description>
+    </item>
+     
+    <item>
+      <title>年末年始</title>
+      <link>http://localhost:1313/tags/%E5%B9%B4%E6%9C%AB%E5%B9%B4%E5%A7%8B/</link>
+      <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%E5%B9%B4%E6%9C%AB%E5%B9%B4%E5%A7%8B/</guid>
+      <description></description>
+    </item>
+     
+    <item>
+      <title>デザイン</title>
+      <link>http://localhost:1313/tags/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/</link>
+      <pubDate>Fri, 20 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/</guid>
+      <description></description>
+    </item>
+     
+    <item>
+      <title>個人開発</title>
+      <link>http://localhost:1313/tags/%E5%80%8B%E4%BA%BA%E9%96%8B%E7%99%BA/</link>
+      <pubDate>Fri, 20 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%E5%80%8B%E4%BA%BA%E9%96%8B%E7%99%BA/</guid>
+      <description></description>
+    </item>
+     
+    <item>
+      <title>設計</title>
+      <link>http://localhost:1313/tags/%E8%A8%AD%E8%A8%88/</link>
+      <pubDate>Fri, 20 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%E8%A8%AD%E8%A8%88/</guid>
+      <description></description>
+    </item>
+     
+    <item>
+      <title>App Router</title>
+      <link>http://localhost:1313/tags/app-router/</link>
+      <pubDate>Sun, 08 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/app-router/</guid>
+      <description></description>
+    </item>
+     
+    <item>
+      <title>Next.js</title>
+      <link>http://localhost:1313/tags/next.js/</link>
+      <pubDate>Sun, 08 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/next.js/</guid>
+      <description></description>
+    </item>
+     
+    <item>
+      <title>フォント</title>
+      <link>http://localhost:1313/tags/%E3%83%95%E3%82%A9%E3%83%B3%E3%83%88/</link>
+      <pubDate>Sun, 08 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%E3%83%95%E3%82%A9%E3%83%B3%E3%83%88/</guid>
+      <description></description>
+    </item>
+     
+    <item>
+      <title>技術選定</title>
+      <link>http://localhost:1313/tags/%E6%8A%80%E8%A1%93%E9%81%B8%E5%AE%9A/</link>
+      <pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%E6%8A%80%E8%A1%93%E9%81%B8%E5%AE%9A/</guid>
+      <description></description>
+    </item>
+     
+    <item>
+      <title>雑</title>
+      <link>http://localhost:1313/tags/%E9%9B%91/</link>
+      <pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%E9%9B%91/</guid>
+      <description></description>
+    </item>
+     
+    <item>
+      <title>Tocbot</title>
+      <link>http://localhost:1313/tags/tocbot/</link>
+      <pubDate>Sat, 23 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/tocbot/</guid>
+      <description></description>
+    </item>
+     
+    <item>
+      <title>Hugo</title>
+      <link>http://localhost:1313/tags/hugo/</link>
+      <pubDate>Mon, 18 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/hugo/</guid>
+      <description></description>
+    </item>
+     
+    <item>
+      <title>Gatsby</title>
+      <link>http://localhost:1313/tags/gatsby/</link>
+      <pubDate>Tue, 30 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/gatsby/</guid>
+      <description></description>
+    </item>
+     
+    <item>
+      <title>公式ドキュメント</title>
+      <link>http://localhost:1313/tags/%E5%85%AC%E5%BC%8F%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88/</link>
+      <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%E5%85%AC%E5%BC%8F%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88/</guid>
+      <description></description>
+    </item>
+     
+    <item>
+      <title>日本語訳</title>
+      <link>http://localhost:1313/tags/%E6%97%A5%E6%9C%AC%E8%AA%9E%E8%A8%B3/</link>
+      <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%E6%97%A5%E6%9C%AC%E8%AA%9E%E8%A8%B3/</guid>
+      <description></description>
+    </item>
+     
+    <item>
+      <title>翻訳</title>
+      <link>http://localhost:1313/tags/%E7%BF%BB%E8%A8%B3/</link>
+      <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%E7%BF%BB%E8%A8%B3/</guid>
+      <description></description>
+    </item>
+     
+    <item>
+      <title>Remotecontainer</title>
+      <link>http://localhost:1313/tags/remotecontainer/</link>
+      <pubDate>Sat, 13 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/remotecontainer/</guid>
+      <description></description>
+    </item>
+     
+    <item>
+      <title>VSCode</title>
+      <link>http://localhost:1313/tags/vscode/</link>
+      <pubDate>Sat, 13 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/vscode/</guid>
+      <description></description>
+    </item>
+     
+    <item>
+      <title>Docker</title>
+      <link>http://localhost:1313/tags/docker/</link>
+      <pubDate>Mon, 08 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/docker/</guid>
+      <description></description>
+    </item>
+     
+    <item>
+      <title>TailwindCSS</title>
+      <link>http://localhost:1313/tags/tailwindcss/</link>
+      <pubDate>Mon, 08 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/tailwindcss/</guid>
+      <description></description>
+    </item>
+     
+    <item>
+      <title>JavaScript</title>
+      <link>http://localhost:1313/tags/javascript/</link>
+      <pubDate>Sun, 07 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/javascript/</guid>
+      <description></description>
+    </item>
+     
+    <item>
+      <title>React</title>
+      <link>http://localhost:1313/tags/react/</link>
+      <pubDate>Sun, 07 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/react/</guid>
+      <description></description>
+    </item>
+     
+    <item>
+      <title>TypeScript</title>
+      <link>http://localhost:1313/tags/typescript/</link>
+      <pubDate>Sun, 07 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/typescript/</guid>
+      <description></description>
+    </item>
+     
+    <item>
+      <title>Nginx</title>
+      <link>http://localhost:1313/tags/nginx/</link>
+      <pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/nginx/</guid>
+      <description></description>
+    </item>
+     
+    <item>
+      <title>セキュリティ</title>
+      <link>http://localhost:1313/tags/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3/</link>
+      <pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3/</guid>
+      <description></description>
+    </item>
+     
+    <item>
+      <title>リバースプロキシ</title>
+      <link>http://localhost:1313/tags/%E3%83%AA%E3%83%90%E3%83%BC%E3%82%B9%E3%83%97%E3%83%AD%E3%82%AD%E3%82%B7/</link>
+      <pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%E3%83%AA%E3%83%90%E3%83%BC%E3%82%B9%E3%83%97%E3%83%AD%E3%82%AD%E3%82%B7/</guid>
+      <description></description>
+    </item>
+     
+    <item>
+      <title>NestJS</title>
+      <link>http://localhost:1313/tags/nestjs/</link>
+      <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/nestjs/</guid>
+      <description></description>
+    </item>
+     
+    <item>
+      <title>SEO</title>
+      <link>http://localhost:1313/tags/seo/</link>
+      <pubDate>Mon, 24 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/seo/</guid>
+      <description></description>
+    </item>
+     
+    <item>
+      <title>ChatGPT</title>
+      <link>http://localhost:1313/tags/chatgpt/</link>
+      <pubDate>Thu, 13 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/chatgpt/</guid>
+      <description></description>
+    </item>
+     
+    <item>
+      <title>Linux</title>
+      <link>http://localhost:1313/tags/linux/</link>
+      <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/linux/</guid>
+      <description></description>
+    </item>
+     
+    <item>
+      <title>カーネル</title>
+      <link>http://localhost:1313/tags/%E3%82%AB%E3%83%BC%E3%83%8D%E3%83%AB/</link>
+      <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%E3%82%AB%E3%83%BC%E3%83%8D%E3%83%AB/</guid>
+      <description></description>
+    </item>
+     
+    <item>
+      <title>ビルド</title>
+      <link>http://localhost:1313/tags/%E3%83%93%E3%83%AB%E3%83%89/</link>
+      <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%E3%83%93%E3%83%AB%E3%83%89/</guid>
+      <description></description>
+    </item>
+     
+    <item>
+      <title>GPT</title>
+      <link>http://localhost:1313/tags/gpt/</link>
+      <pubDate>Wed, 22 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/gpt/</guid>
+      <description></description>
+    </item>
+     
+    <item>
+      <title>OpenAI</title>
+      <link>http://localhost:1313/tags/openai/</link>
+      <pubDate>Wed, 22 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/openai/</guid>
+      <description></description>
+    </item>
+     
+    <item>
+      <title>AI生成</title>
+      <link>http://localhost:1313/tags/ai%E7%94%9F%E6%88%90/</link>
+      <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/ai%E7%94%9F%E6%88%90/</guid>
+      <description></description>
+    </item>
+     
+    <item>
+      <title>Flask</title>
+      <link>http://localhost:1313/tags/flask/</link>
+      <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/flask/</guid>
+      <description></description>
+    </item>
+     
+    <item>
+      <title>Python</title>
+      <link>http://localhost:1313/tags/python/</link>
+      <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/python/</guid>
+      <description></description>
+    </item>
+     
+    <item>
+      <title>BeautifulSoup</title>
+      <link>http://localhost:1313/tags/beautifulsoup/</link>
+      <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/beautifulsoup/</guid>
+      <description></description>
+    </item>
+     
+    <item>
+      <title>おすすめ</title>
+      <link>http://localhost:1313/tags/%E3%81%8A%E3%81%99%E3%81%99%E3%82%81/</link>
+      <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%E3%81%8A%E3%81%99%E3%81%99%E3%82%81/</guid>
+      <description></description>
+    </item>
+     
+    <item>
+      <title>スクレイピング</title>
+      <link>http://localhost:1313/tags/%E3%82%B9%E3%82%AF%E3%83%AC%E3%82%A4%E3%83%94%E3%83%B3%E3%82%B0/</link>
+      <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%E3%82%B9%E3%82%AF%E3%83%AC%E3%82%A4%E3%83%94%E3%83%B3%E3%82%B0/</guid>
+      <description></description>
+    </item>
+     
+    <item>
+      <title>Chrome</title>
+      <link>http://localhost:1313/tags/chrome/</link>
+      <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/chrome/</guid>
+      <description></description>
+    </item>
+     
+    <item>
+      <title>Flatpak</title>
+      <link>http://localhost:1313/tags/flatpak/</link>
+      <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/flatpak/</guid>
+      <description></description>
+    </item>
+     
+    <item>
+      <title>AI</title>
+      <link>http://localhost:1313/tags/ai/</link>
+      <pubDate>Mon, 03 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/ai/</guid>
+      <description></description>
+    </item>
+     
+    <item>
+      <title>時事ネタ</title>
+      <link>http://localhost:1313/tags/%E6%99%82%E4%BA%8B%E3%83%8D%E3%82%BF/</link>
+      <pubDate>Mon, 03 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%E6%99%82%E4%BA%8B%E3%83%8D%E3%82%BF/</guid>
+      <description></description>
+    </item>
+     
+    <item>
+      <title>画像生成</title>
+      <link>http://localhost:1313/tags/%E7%94%BB%E5%83%8F%E7%94%9F%E6%88%90/</link>
+      <pubDate>Mon, 03 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%E7%94%BB%E5%83%8F%E7%94%9F%E6%88%90/</guid>
+      <description></description>
+    </item>
+     
+    <item>
+      <title>クソ記事</title>
+      <link>http://localhost:1313/tags/%E3%82%AF%E3%82%BD%E8%A8%98%E4%BA%8B/</link>
+      <pubDate>Thu, 29 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%E3%82%AF%E3%82%BD%E8%A8%98%E4%BA%8B/</guid>
+      <description></description>
+    </item>
+     
+    <item>
+      <title>メイケイエール</title>
+      <link>http://localhost:1313/tags/%E3%83%A1%E3%82%A4%E3%82%B1%E3%82%A4%E3%82%A8%E3%83%BC%E3%83%AB/</link>
+      <pubDate>Thu, 29 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%E3%83%A1%E3%82%A4%E3%82%B1%E3%82%A4%E3%82%A8%E3%83%BC%E3%83%AB/</guid>
+      <description></description>
+    </item>
+     
+    <item>
+      <title>競馬</title>
+      <link>http://localhost:1313/tags/%E7%AB%B6%E9%A6%AC/</link>
+      <pubDate>Thu, 29 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%E7%AB%B6%E9%A6%AC/</guid>
+      <description></description>
+    </item>
+     
+    <item>
+      <title>GUI</title>
+      <link>http://localhost:1313/tags/gui/</link>
+      <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/gui/</guid>
+      <description></description>
+    </item>
+     
+    <item>
+      <title>Tkinter</title>
+      <link>http://localhost:1313/tags/tkinter/</link>
+      <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/tkinter/</guid>
+      <description></description>
+    </item>
+     
+    <item>
+      <title>Bulma</title>
+      <link>http://localhost:1313/tags/bulma/</link>
+      <pubDate>Fri, 16 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/bulma/</guid>
+      <description></description>
+    </item>
+     
+    <item>
+      <title>CSS</title>
+      <link>http://localhost:1313/tags/css/</link>
+      <pubDate>Fri, 16 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/css/</guid>
+      <description></description>
+    </item>
+     
+    <item>
+      <title>コマンド</title>
+      <link>http://localhost:1313/tags/%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89/</link>
+      <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89/</guid>
+      <description></description>
+    </item>
+     
+    <item>
+      <title>まとめ記事</title>
+      <link>http://localhost:1313/tags/%E3%81%BE%E3%81%A8%E3%82%81%E8%A8%98%E4%BA%8B/</link>
+      <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%E3%81%BE%E3%81%A8%E3%82%81%E8%A8%98%E4%BA%8B/</guid>
+      <description></description>
+    </item>
+     
+    <item>
+      <title>プロフィール</title>
+      <link>http://localhost:1313/tags/%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB/</link>
+      <pubDate>Fri, 09 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB/</guid>
+      <description></description>
+    </item>
+     
+    <item>
+      <title>プライバシーポリシー</title>
+      <link>http://localhost:1313/tags/%E3%83%97%E3%83%A9%E3%82%A4%E3%83%90%E3%82%B7%E3%83%BC%E3%83%9D%E3%83%AA%E3%82%B7%E3%83%BC/</link>
+      <pubDate>Thu, 08 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%E3%83%97%E3%83%A9%E3%82%A4%E3%83%90%E3%82%B7%E3%83%BC%E3%83%9D%E3%83%AA%E3%82%B7%E3%83%BC/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

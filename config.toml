@@ -12,7 +12,7 @@ pygmentsUseClasses = true
 hasCJKLanguage = true
 
 [context.production.environment]
-HUGO_VERSION = "0.92.2"
+HUGO_VERSION = "0.124.1"
 
 [minify]
 disableXML = true
@@ -29,7 +29,7 @@ author = "Sandyマン"
 images = [ "<link or path of image for opengraph, twitter-cards>" ]
 DateFormat = "January 2, 2006"
 defaultTheme = "light"
-disableThemeToggle = true
+disableThemeToggle = false
 ShowReadingTime = true
 ShowShareButtons = true
 ShowPostNavLinks = true
@@ -47,11 +47,11 @@ showtoc = true
 tocopen = false
 
   [params.assets]
-  favicon = "https://lh3.googleusercontent.com/pw/AL9nZEXcibiTiJZ13XQyvylkB8zAI5XYuXP4rUW5XCSP7cOCQm11bcp6p1BGmVYuOQKiw0R9O9TVjX5AjRmOQPyx3cbQRXQkrRROkh7ze41-g8qYiExGr0lnEpmrC1N0DROav89-rxprYFysXe-XwNPjIhxTUA=s100-no?authuser=0"
-  favicon16x16 = "https://lh3.googleusercontent.com/pw/AL9nZEXcibiTiJZ13XQyvylkB8zAI5XYuXP4rUW5XCSP7cOCQm11bcp6p1BGmVYuOQKiw0R9O9TVjX5AjRmOQPyx3cbQRXQkrRROkh7ze41-g8qYiExGr0lnEpmrC1N0DROav89-rxprYFysXe-XwNPjIhxTUA=s100-no?authuser=0"
-  favicon32x32 = "https://lh3.googleusercontent.com/pw/AL9nZEXcibiTiJZ13XQyvylkB8zAI5XYuXP4rUW5XCSP7cOCQm11bcp6p1BGmVYuOQKiw0R9O9TVjX5AjRmOQPyx3cbQRXQkrRROkh7ze41-g8qYiExGr0lnEpmrC1N0DROav89-rxprYFysXe-XwNPjIhxTUA=s100-no?authuser=0"
-  apple_touch_icon = "https://lh3.googleusercontent.com/pw/AL9nZEXcibiTiJZ13XQyvylkB8zAI5XYuXP4rUW5XCSP7cOCQm11bcp6p1BGmVYuOQKiw0R9O9TVjX5AjRmOQPyx3cbQRXQkrRROkh7ze41-g8qYiExGr0lnEpmrC1N0DROav89-rxprYFysXe-XwNPjIhxTUA=s100-no?authuser=0"
-  safari_pinned_tab = "https://lh3.googleusercontent.com/pw/AL9nZEXcibiTiJZ13XQyvylkB8zAI5XYuXP4rUW5XCSP7cOCQm11bcp6p1BGmVYuOQKiw0R9O9TVjX5AjRmOQPyx3cbQRXQkrRROkh7ze41-g8qYiExGr0lnEpmrC1N0DROav89-rxprYFysXe-XwNPjIhxTUA=s100-no?authuser=0"
+  favicon = "https://lh3.googleusercontent.com/pw/AP1GczNK5C2_VtIh0iTlOFYODTRAihQ5XFp2sNmDy39PbYQBrwKr_dXz_f4OH35t-PALNJZYynjDF6AjcMDeuEjmt6qtqyqnQoWcaAi6VBzOOLEtjhjykHm84-WQ2wVG-9FJDZ33Q6YjRsPvshUg8k9Jydfs0Q=w260-h260-s-no-gm?authuser=0"
+  favicon16x16 = "https://lh3.googleusercontent.com/pw/AP1GczNK5C2_VtIh0iTlOFYODTRAihQ5XFp2sNmDy39PbYQBrwKr_dXz_f4OH35t-PALNJZYynjDF6AjcMDeuEjmt6qtqyqnQoWcaAi6VBzOOLEtjhjykHm84-WQ2wVG-9FJDZ33Q6YjRsPvshUg8k9Jydfs0Q=w260-h260-s-no-gm?authuser=0"
+  favicon32x32 = "https://lh3.googleusercontent.com/pw/AP1GczNK5C2_VtIh0iTlOFYODTRAihQ5XFp2sNmDy39PbYQBrwKr_dXz_f4OH35t-PALNJZYynjDF6AjcMDeuEjmt6qtqyqnQoWcaAi6VBzOOLEtjhjykHm84-WQ2wVG-9FJDZ33Q6YjRsPvshUg8k9Jydfs0Q=w260-h260-s-no-gm?authuser=0"
+  apple_touch_icon = "https://lh3.googleusercontent.com/pw/AP1GczNK5C2_VtIh0iTlOFYODTRAihQ5XFp2sNmDy39PbYQBrwKr_dXz_f4OH35t-PALNJZYynjDF6AjcMDeuEjmt6qtqyqnQoWcaAi6VBzOOLEtjhjykHm84-WQ2wVG-9FJDZ33Q6YjRsPvshUg8k9Jydfs0Q=w260-h260-s-no-gm?authuser=0"
+  safari_pinned_tab = "https://lh3.googleusercontent.com/pw/AP1GczNK5C2_VtIh0iTlOFYODTRAihQ5XFp2sNmDy39PbYQBrwKr_dXz_f4OH35t-PALNJZYynjDF6AjcMDeuEjmt6qtqyqnQoWcaAi6VBzOOLEtjhjykHm84-WQ2wVG-9FJDZ33Q6YjRsPvshUg8k9Jydfs0Q=w260-h260-s-no-gm?authuser=0"
 
   [params.label]
   icon = "/images/logomark.png"

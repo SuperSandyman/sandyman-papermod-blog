@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>CSS on Sandyマンのブログ</title>
+    <link>http://localhost:1313/tags/css/</link>
+    <description>Recent content in CSS on Sandyマンのブログ</description>
+    <image>
+      <title>Sandyマンのブログ</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 16 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/css/index.xml" rel="self" type="application/rss+xml" /> 
+    <item>
+      <title>CSSフレームワーク「Bulma」でいろいろ作ってみた</title>
+      <link>http://localhost:1313/posts/css-bulma-using/</link>
+      <pubDate>Fri, 16 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/css-bulma-using/</guid>
+      <description>はじめに 皆さんこんにちは！Sandyマンです！ 今回は、CSSフレームワークである「Bulma」を使って実際にいろいろ作ってみたいなと思います</description>
+    </item>
+    
+  </channel>
+</rss>

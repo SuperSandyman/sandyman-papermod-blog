@@ -20,10 +20,10 @@
   </header>
   {{ if gt (now.AddDate -1 0 0) .Date }}
   <!-- ここにHTMLを好きなように書く -->
-  <div class="alert-warning" role="alert">
+  <!-- <div class="alert-warning" role="alert">
     <span class="font-alert">この記事は投稿から1年以上経っています。</span>
     ここに書かれている情報は古い可能性があります。
-  </div>
+  </div> -->
   {{ end }} {{- $isHidden := .Params.cover.hidden | default
   site.Params.cover.hiddenInSingle | default site.Params.cover.hidden }} {{-
   partial "cover.html" (dict "cxt" . "IsHome" false "isHidden" $isHidden) }} {{-

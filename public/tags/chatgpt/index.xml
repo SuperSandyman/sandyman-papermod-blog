@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ChatGPT on Sandyマンのブログ</title>
+    <link>http://localhost:1313/tags/chatgpt/</link>
+    <description>Recent content in ChatGPT on Sandyマンのブログ</description>
+    <image>
+      <title>Sandyマンのブログ</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 13 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/chatgpt/index.xml" rel="self" type="application/rss+xml" /> 
+    <item>
+      <title>ChatGPT登場後の技術ブログの未来</title>
+      <link>http://localhost:1313/posts/chatgpt-techblog-future/</link>
+      <pubDate>Thu, 13 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/chatgpt-techblog-future/</guid>
+      <description>皆さんこんにちは。Sandyマンです。今回は、「ChatGPT登場後の技術ブログの未来」ということでやってみようかなと思います。それではやっ</description>
+    </item>
+     
+    <item>
+      <title>個人的によく使うChatGPTのプロンプト</title>
+      <link>http://localhost:1313/posts/chatgpt-often-use-prompt/</link>
+      <pubDate>Wed, 22 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/chatgpt-often-use-prompt/</guid>
+      <description>はじめに 皆さんこんにちは。Sandyマンです。個人的によく使うChatGPTのプロンプトをまとめてみました。早速やっていきます。 1.質問する</description>
+    </item>
+     
+    <item>
+      <title>ChatGPTに記事書かせたらどうなるのかやってみた？（FlaskとFastAPIの違いについて特徴などを比較）</title>
+      <link>http://localhost:1313/posts/flask-fastapi-python/</link>
+      <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/flask-fastapi-python/</guid>
+      <description>はじめに 皆さんこんにちは。Sandyマンです。今回は、今流行っている「ChatGPT」、こいつを使ってPythonに関する記事を書かせてみま</description>
+    </item>
+    
+  </channel>
+</rss>

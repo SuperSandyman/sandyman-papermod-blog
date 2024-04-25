@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>おすすめ on Sandyマンのブログ</title>
+    <link>http://localhost:1313/tags/%E3%81%8A%E3%81%99%E3%81%99%E3%82%81/</link>
+    <description>Recent content in おすすめ on Sandyマンのブログ</description>
+    <image>
+      <title>Sandyマンのブログ</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 21 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/%E3%81%8A%E3%81%99%E3%81%99%E3%82%81/index.xml" rel="self" type="application/rss+xml" /> 
+    <item>
+      <title>【Python】BeautifulSoupで誰でもらくらくスクレイピング</title>
+      <link>http://localhost:1313/posts/beautifulsoup-python/</link>
+      <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/beautifulsoup-python/</guid>
+      <description>Pythonを使ったスクレイピングの手法について、実際の例なども交えながらわかりやすく解説。BeautifulSoupを使って初心者でも簡単にできる方法を紹介。</description>
+    </item>
+     
+    <item>
+      <title>暇つぶしになる面白いLinuxのコマンド5選！友達に自慢できるかも！？</title>
+      <link>http://localhost:1313/posts/linux-funny-command/</link>
+      <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/linux-funny-command/</guid>
+      <description>皆さんこんにちは！Sandyマンです！いきなりですが、今暇ですか？私は暇です（？？？）そん</description>
+    </item>
+     
+    <item>
+      <title>【WordPress卒業】HugoとVercelを使って安くて速いブログを作る</title>
+      <link>http://localhost:1313/posts/hugo-make-blog/</link>
+      <pubDate>Tue, 13 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/hugo-make-blog/</guid>
+      <description>皆さんこんにちは、Sandyマンです！ 突然ですが、皆さんは「ブログを作りたい」と思ったことはありませんか？（唐突）ありますよね？？ですが、W</description>
+    </item>
+    
+  </channel>
+</rss>

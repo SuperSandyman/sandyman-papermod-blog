@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>App Router on Sandyマンのブログ</title>
+    <link>http://localhost:1313/tags/app-router/</link>
+    <description>Recent content in App Router on Sandyマンのブログ</description>
+    <image>
+      <title>Sandyマンのブログ</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 08 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/app-router/index.xml" rel="self" type="application/rss+xml" /> 
+    <item>
+      <title>Next.js (App Router) でNoto Sans JPを使いたい</title>
+      <link>http://localhost:1313/posts/use-notosansjp-next/</link>
+      <pubDate>Sun, 08 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/use-notosansjp-next/</guid>
+      <description>概要 Next.js (App Router) でNoto Sans JPを使うときの方法を忘れてしまったので自分用にメモしておきます。 方法 // 変更前のlayout.tsx import &amp;#39;./globals.css&amp;#39; import type { Metadata } from &amp;#39;next&amp;#39;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Sandyマンのブログ</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Sandyマンのブログ</description>
+    <image>
+      <title>Sandyマンのブログ</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 20 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" /> 
+    <item>
+      <title>VPSのUbuntuでDirectusをホスティングしたときのメモ</title>
+      <link>http://localhost:1313/posts/directus-install-ubuntu/</link>
+      <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/directus-install-ubuntu/</guid>
+      <description>皆さんこんにちは！Sandyマンです。 先日、当ブログのコンテンツ管理をマークダウン+Gitから、ヘッドレスCMSの「Directus」へ移行</description>
+    </item>
+     
+    <item>
+      <title>2023年を振り返ってみた</title>
+      <link>http://localhost:1313/posts/2023-final-post/</link>
+      <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2023-final-post/</guid>
+      <description>皆さんこんにちは。Sandyマンです。いろいろあった2023年ももうすぐ終わりですね！ということで、今年やったこととかを振り返ってみようと思</description>
+    </item>
+     
+    <item>
+      <title>Next.jsでの個人開発の設計的なのをしてみる</title>
+      <link>http://localhost:1313/posts/nextjs-firebase-app-2/</link>
+      <pubDate>Fri, 20 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/nextjs-firebase-app-2/</guid>
+      <description>皆さんこんにちは。Sandyマンです。今回は個人開発の設計みたいなのについて考えていきます。それではやっていきます！ UI、デザインなど UI、</description>
+    </item>
+     
+    <item>
+      <title>Next.js (App Router) でNoto Sans JPを使いたい</title>
+      <link>http://localhost:1313/posts/use-notosansjp-next/</link>
+      <pubDate>Sun, 08 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/use-notosansjp-next/</guid>
+      <description>概要 Next.js (App Router) でNoto Sans JPを使うときの方法を忘れてしまったので自分用にメモしておきます。 方法 // 変更前のlayout.tsx import &amp;#39;./globals.css&amp;#39; import type { Metadata } from &amp;#39;next&amp;#39;</description>
+    </item>
+     
+    <item>
+      <title>Next.jsで個人開発したいので技術選定してみる</title>
+      <link>http://localhost:1313/posts/nextjs-firebase-app-1/</link>
+      <pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/nextjs-firebase-app-1/</guid>
+      <description>個人開発やりたいときってありますよね？ね？ということで技術選定をするだけの記事（というかメモ）です！！Sandyマンです！！！ 何を作るか 何を</description>
+    </item>
+     
+    <item>
+      <title>Tocbotを使ってマークダウンブログに目次を実装</title>
+      <link>http://localhost:1313/posts/tocbot-make-toc/</link>
+      <pubDate>Sat, 23 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/tocbot-make-toc/</guid>
+      <description>概要 Tocbotという目次を作成できるライブラリを使って、Next.js製マークダウンブログに目次機能を実装します。 実施環境 Next.js 13.4 App Router Tailwind CSS</description>
+    </item>
+     
+    <item>
+      <title>HugoからNext.js (App Router) にブログを移行してみた</title>
+      <link>http://localhost:1313/posts/blog-nextjs-migration/</link>
+      <pubDate>Mon, 18 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/blog-nextjs-migration/</guid>
+      <description>お久しぶりです！Sandyマンです。 前回、「HugoをやめてGatsbyで最強なブログを作る」という記事を投稿したのですが、いろいろあって結</description>
+    </item>
+     
+    <item>
+      <title>HugoをやめてGatsbyで最強なブログを作る</title>
+      <link>http://localhost:1313/posts/hugo-to-gatsby-1/</link>
+      <pubDate>Tue, 30 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/hugo-to-gatsby-1/</guid>
+      <description>皆さんこんにちは。Sandyマンです。今回は、HugoをやめてGatsbyでブログを作り直したくなったので、それについてやっていきます！！ H</description>
+    </item>
+     
+    <item>
+      <title>【ドキュメント日本語訳】Next.js 13.4 App Router Installation</title>
+      <link>http://localhost:1313/posts/nextjs-approuter-installation/</link>
+      <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/nextjs-approuter-installation/</guid>
+      <description>（コードはすべてTypeScriptです。Deeplなどで翻訳しました） 元のドキュメント Getting Started: Installation | Next.js システム要件 Node.js 16.8以降 MacOS、Wi</description>
+    </item>
+     
+    <item>
+      <title>Next.js(App Router)のドキュメント日本語訳まとめ</title>
+      <link>http://localhost:1313/posts/nextjs-approuter-document-ja/</link>
+      <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/nextjs-approuter-document-ja/</guid>
+      <description>Next.js 13.4のApp Routerのドキュメントを日本語訳してみてます。翻訳にはDeepl翻訳などを使ってます。 Getting Started Installation 【ドキュメント日本語訳】N</description>
+    </item>
+     
+    <item>
+      <title>今更VSCodeのRemote Containerを使ってみる</title>
+      <link>http://localhost:1313/posts/docker-remotecontainer-vscode/</link>
+      <pubDate>Sat, 13 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/docker-remotecontainer-vscode/</guid>
+      <description>皆さんこんにちは。Sandyマンです。今回は、今更ながらVSCodeのRemote Containerを軽く触っていこうと思います。それではや</description>
+    </item>
+     
+    <item>
+      <title>Next.js×DockerのときなぜかTailwind CSSが使えない</title>
+      <link>http://localhost:1313/posts/nextjs-tailwindcss-docker/</link>
+      <pubDate>Mon, 08 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/nextjs-tailwindcss-docker/</guid>
+      <description>Next.jsとDockerを使用する際、なぜかTailwind CSSが効かないトラブル。いろいろ調べてみるが何もわからない&amp;hellip;</description>
+    </item>
+     
+    <item>
+      <title>React×TypeScriptの基本についてまとめる</title>
+      <link>http://localhost:1313/posts/react-typescript-howto/</link>
+      <pubDate>Sun, 07 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/react-typescript-howto/</guid>
+      <description>皆さんこんにちは。Sandyマンです。今回は、「React×TypeScriptの基本」ということでやっていこうと思います。それではやってい</description>
+    </item>
+     
+    <item>
+      <title>リバースプロキシについて調べてみた</title>
+      <link>http://localhost:1313/posts/about-reverse-proxy/</link>
+      <pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/about-reverse-proxy/</guid>
+      <description>皆さんこんにちは。Sandyマンです。今回は、前回の記事で出てきた「リバースプロキシ」について調べてまとめてみようと思います。それではやって</description>
+    </item>
+     
+    <item>
+      <title>Docker×Next.js×NestJS×PostgreSQLの環境構築をしてみる</title>
+      <link>http://localhost:1313/posts/nextjs-nestjs-docker-setup/</link>
+      <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/nextjs-nestjs-docker-setup/</guid>
+      <description>皆さんこんにちは。Sandyマンです。今回は、「Docker×Next.js×NestJS×PostgreSQL」の環境構築をしていきます！</description>
+    </item>
+     
+    <item>
+      <title>Hugoのindex.xmlに一部記事が登録されないようにしてみた</title>
+      <link>http://localhost:1313/posts/hugo-index-xml/</link>
+      <pubDate>Mon, 24 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/hugo-index-xml/</guid>
+      <description>皆さんこんにちは。Sandyマンです。Hugoのindex.xmlに一部記事が登録されないようにしてみたので方法を残そうと思います。 結論 rs</description>
+    </item>
+     
+    <item>
+      <title>ChatGPT登場後の技術ブログの未来</title>
+      <link>http://localhost:1313/posts/chatgpt-techblog-future/</link>
+      <pubDate>Thu, 13 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/chatgpt-techblog-future/</guid>
+      <description>皆さんこんにちは。Sandyマンです。今回は、「ChatGPT登場後の技術ブログの未来」ということでやってみようかなと思います。それではやっ</description>
+    </item>
+     
+    <item>
+      <title>ブログのテーマをPaperModに変えました</title>
+      <link>http://localhost:1313/posts/blog-theme-change/</link>
+      <pubDate>Wed, 29 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/blog-theme-change/</guid>
+      <description>皆さんこんにちは。Sandyマンです。いきなりなんですが、ブログのテーマを変えてみました。変更点とか書いてみようかなと思います。それではやっ</description>
+    </item>
+     
+    <item>
+      <title>【備忘録】UbuntuでLinuxカーネルをビルドしてみたときの手順</title>
+      <link>http://localhost:1313/posts/linux-kernel-build/</link>
+      <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/linux-kernel-build/</guid>
+      <description>Ubuntu系でLinuxカーネルをビルドしてみたときの手順等をまとめた記事です。カーネルのソースコードからビルドしました。</description>
+    </item>
+     
+    <item>
+      <title>個人的によく使うChatGPTのプロンプト</title>
+      <link>http://localhost:1313/posts/chatgpt-often-use-prompt/</link>
+      <pubDate>Wed, 22 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/chatgpt-often-use-prompt/</guid>
+      <description>はじめに 皆さんこんにちは。Sandyマンです。個人的によく使うChatGPTのプロンプトをまとめてみました。早速やっていきます。 1.質問する</description>
+    </item>
+     
+    <item>
+      <title>ChatGPTに記事書かせたらどうなるのかやってみた？（FlaskとFastAPIの違いについて特徴などを比較）</title>
+      <link>http://localhost:1313/posts/flask-fastapi-python/</link>
+      <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/flask-fastapi-python/</guid>
+      <description>はじめに 皆さんこんにちは。Sandyマンです。今回は、今流行っている「ChatGPT」、こいつを使ってPythonに関する記事を書かせてみま</description>
+    </item>
+     
+    <item>
+      <title>【Python】BeautifulSoupで誰でもらくらくスクレイピング</title>
+      <link>http://localhost:1313/posts/beautifulsoup-python/</link>
+      <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/beautifulsoup-python/</guid>
+      <description>Pythonを使ったスクレイピングの手法について、実際の例なども交えながらわかりやすく解説。BeautifulSoupを使って初心者でも簡単にできる方法を紹介。</description>
+    </item>
+     
+    <item>
+      <title>2022年もありがとうございました！</title>
+      <link>http://localhost:1313/posts/2022-final-post/</link>
+      <pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-final-post/</guid>
+      <description>皆さんこんにちは。Sandyマンです。いよいよ2022年も終わりですね！ということでてきとうに2022年を振り返っていこうかなと思います！そ</description>
+    </item>
+     
+    <item>
+      <title>Flatpakを使ってUbuntuにChromeをインストールする</title>
+      <link>http://localhost:1313/posts/flatpak-chrome-install/</link>
+      <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/flatpak-chrome-install/</guid>
+      <description>はじめに 私が普段使っているブラウザはFirefoxなのですが、グリーンチャンネルWebで香港国際競走を見ようとしたらなんとFirefoxに対</description>
+    </item>
+     
+    <item>
+      <title>VSCodeで開発するときのおすすめ拡張機能を紹介する</title>
+      <link>http://localhost:1313/posts/vscode-addon-themes/</link>
+      <pubDate>Fri, 04 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/vscode-addon-themes/</guid>
+      <description>皆さんこんにちは！Sandyマンです！今回は、プログラマー御用達のエディタ「Visual Studio Code」（以下VSCode）のおすすめ拡張機能を</description>
+    </item>
+     
+    <item>
+      <title>本当にAIでフェイクの画像を生成することができるのか？Pythonで試してみた！</title>
+      <link>http://localhost:1313/posts/ai-create-fakeimages/</link>
+      <pubDate>Mon, 03 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/ai-create-fakeimages/</guid>
+      <description>近年話題になっているAIによるフェイク画像、実際に作ることはできるのか検証。Pythonを活用してAIを使ってみたという記事。</description>
+    </item>
+     
+    <item>
+      <title>【クソ記事】メイケイエールへのまあまあ熱い想いを書き殴る</title>
+      <link>http://localhost:1313/posts/meikei-yell-love/</link>
+      <pubDate>Thu, 29 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/meikei-yell-love/</guid>
+      <description>皆さんこんにちは！Sandyマンです！今回は技術系は疲れたので、私の推しの馬であるメイケイエールへの愛をてきとうに書き殴っていこうと思います</description>
+    </item>
+     
+    <item>
+      <title>Pythonの標準ライブラリ「Tkinter」でGUIアプリケーションをサクッと作る</title>
+      <link>http://localhost:1313/posts/python-gui-tkinter/</link>
+      <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/python-gui-tkinter/</guid>
+      <description>Pythonの標準ライブラリであるTkinterを使って、PCで動くGUIアプリケーションを作成。</description>
+    </item>
+     
+    <item>
+      <title>CSSフレームワーク「Bulma」でいろいろ作ってみた</title>
+      <link>http://localhost:1313/posts/css-bulma-using/</link>
+      <pubDate>Fri, 16 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/css-bulma-using/</guid>
+      <description>はじめに 皆さんこんにちは！Sandyマンです！ 今回は、CSSフレームワークである「Bulma」を使って実際にいろいろ作ってみたいなと思います</description>
+    </item>
+     
+    <item>
+      <title>暇つぶしになる面白いLinuxのコマンド5選！友達に自慢できるかも！？</title>
+      <link>http://localhost:1313/posts/linux-funny-command/</link>
+      <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/linux-funny-command/</guid>
+      <description>皆さんこんにちは！Sandyマンです！いきなりですが、今暇ですか？私は暇です（？？？）そん</description>
+    </item>
+     
+    <item>
+      <title>【WordPress卒業】HugoとVercelを使って安くて速いブログを作る</title>
+      <link>http://localhost:1313/posts/hugo-make-blog/</link>
+      <pubDate>Tue, 13 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/hugo-make-blog/</guid>
+      <description>皆さんこんにちは、Sandyマンです！ 突然ですが、皆さんは「ブログを作りたい」と思ったことはありませんか？（唐突）ありますよね？？ですが、W</description>
+    </item>
+     
+    <item>
+      <title>【念願】ブログ引っ越したぞーー！！！</title>
+      <link>http://localhost:1313/posts/blog-open/</link>
+      <pubDate>Fri, 09 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/blog-open/</guid>
+      <description>皆さんこんにちは！Sandyマンです。 やっと、念願だったブログの移行をすることができました！ということで、てきとうにこのブログでの発信内容や</description>
+    </item>
+     
+    <item>
+      <title>プロフィール</title>
+      <link>http://localhost:1313/posts/profile/</link>
+      <pubDate>Fri, 09 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/profile/</guid>
+      <description>Sandyマンです。完全に趣味でブログをやったりWeb開発してます。 名前の由来 アメブロでブログを始めたときに使っていたCPUが、Intelの</description>
+    </item>
+     
+    <item>
+      <title>プライバシーポリシー</title>
+      <link>http://localhost:1313/posts/privacy-policy/</link>
+      <pubDate>Thu, 08 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/privacy-policy/</guid>
+      <description>本プライバシーポリシーは、Sandyマンのブログ（以下、「当サイト」とします。)の各種サービス（当サイトによる情報提供、各種お問合せの受付等</description>
+    </item>
+    
+  </channel>
+</rss>
